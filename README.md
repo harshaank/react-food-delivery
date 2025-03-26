@@ -37,7 +37,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/DavidBarcenas/react-food-delivery.git
+$ git clone https://github.com/harshaank/react-food-delivery.git
 
 # Go into the repository
 $ cd react-food-delivery
@@ -51,7 +51,7 @@ $ yarn run start
 
 **Note: This project has a backend made with nest.js, which you can configure to handle data
 persistence, authentication, mailing, notifications, and more. The repository can be found at the
-following link: [food-delivery-backend](https://github.com/DavidBarcenas/food-delivery-backend).**
+following link: [food-delivery-backend](https://github.com/harshaank/food-delivery-backend).**
 
 ## Deployment
 
